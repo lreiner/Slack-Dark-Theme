@@ -1,6 +1,8 @@
 
 # Slack Dark Theme 
 
+> C:\Users\l.reiner\AppData\Local\slack\app-3.3.3\resources\app.asar.unpacked\src\static\ssb-interop.js
+
 ```javascript
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
