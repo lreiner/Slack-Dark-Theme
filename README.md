@@ -12,6 +12,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 ```
 
-```css
+```
 #000000,#444A47,#00D0FF,#00D0FF,#434745,#FFFFFF,#00d0ff,#DB6668
 ```
