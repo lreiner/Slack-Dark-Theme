@@ -15,5 +15,5 @@ document.addEventListener('DOMContentLoaded', function() {
 ```
 
 ```
-#000000,#444A47,#00D0FF,#00D0FF,#434745,#FFFFFF,#00d0ff,#DB6668
+#2d2d2d,#434745,#00D0FF,#00D0FF,#434745,#FFFFFF,#00d0ff,#DB6668
 ```
