@@ -2,7 +2,7 @@
 # Slack Dark Theme 
 
 ### 1. Search for ssb-interop.js 
-> C:\Users\<USERNAME>\AppData\Local\slack\app-<VERSION-NUMBER>\resources\app.asar.unpacked\src\static\ssb-interop.js
+> C:\Users\<USERNAME>\AppData\Local\slack\app-<VERSION>\resources\app.asar.unpacked\src\static\ssb-interop.js
 
 ### 2. Insert this on top of the file
 ```javascript
